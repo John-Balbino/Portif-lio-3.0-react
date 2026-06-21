@@ -19,14 +19,14 @@ export function Projects() {
       imagem: gym,
       alt: "Projeto de site para academia",
       button: "Ver Projeto",
-      link:"https://john-balbino.github.io/Barbearia/" 
+      link:"https://john-balbino.github.io/Site-Academia/" 
     },
 
     { id: "2",
       imagem: barb, 
       alt: "Projeto de site para barbearia",
       button: "Ver Projeto",
-      link:"https://john-balbino.github.io/Site-Academia/"
+      link:"https://john-balbino.github.io/Barbearia/"
     },
 
     { id: "3",
